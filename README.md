@@ -19,8 +19,8 @@ You can download the project, or use our CDN.
 ### Download
 You can download our build files.
 
-![js-contextmenu.min.js](https://img.shields.io/static/v1.svg?label=1.2.0&message=js-contextmenu.min.js&color=success&url=https://cdn.jsdelivr.net/gh/ArnyminerZ/JavaScript-Context-Menu@1.0.0/dist/js-contextmenu.min.js&style=flat-square)
-![js-contextmenu.js](https://img.shields.io/static/v1.svg?label=1.2.0&message=js-contextmenu.js&color=success&url=https://cdn.jsdelivr.net/gh/ArnyminerZ/JavaScript-Context-Menu@1.0.0/dist/js-contextmenu.js&style=flat-square)
+[![js-contextmenu.min.js](https://img.shields.io/static/v1.svg?label=1.2.0&message=js-contextmenu.min.js&color=success&style=flat-square)](https://cdn.jsdelivr.net/gh/ArnyminerZ/JavaScript-Context-Menu@1.0.0/dist/js-contextmenu.min.js)
+[![js-contextmenu.js](https://img.shields.io/static/v1.svg?label=1.2.0&message=js-contextmenu.js&color=success&style=flat-square)](https://cdn.jsdelivr.net/gh/ArnyminerZ/JavaScript-Context-Menu@1.0.0/dist/js-contextmenu.js)
 ### CDN
 We have our project hosted in jDelivr, import it to your HTML page with:
 ```HTML
